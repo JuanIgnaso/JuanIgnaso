@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hey hola, bienvenido/a a mi Perfil de GitHub :)
+Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la programación
 
 <!--
 **JuanIgnaso/JuanIgnaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
