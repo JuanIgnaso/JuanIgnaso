@@ -1,10 +1,11 @@
 # Hey hola, bienvenido/a a mi Perfil de GitHub :)
 Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la programación
 
+Me gusta programar:
 <ul>
-  <li>Elemento 1</li>
-  <li>Elemento 2</li>
-  <li>Elemento 3</li>
+  <li>CSS/HTML</li>
+  <li>Java Script</li>
+  <li>Python</li>
 </ul>
 
 <!--
