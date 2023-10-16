@@ -1,6 +1,12 @@
 # Hey hola, bienvenido/a a mi Perfil de GitHub :)
 Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la programación
 
+<ul>
+  <li>Elemento 1</li>
+  <li>Elemento 2</li>
+  <li>Elemento 3</li>
+</ul>
+
 <!--
 **JuanIgnaso/JuanIgnaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
