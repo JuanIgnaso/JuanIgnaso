@@ -2,6 +2,9 @@
 Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la programación
 
 
+![GitHub-Banner](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/86648457-e31a-4db0-b741-b51f972e222b)
+
+
 <details>
 <summary>Me gusta programar en:</summary>
 
@@ -12,6 +15,9 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 </ul>
 
 </details>
+
+## Otros Contactos
+Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/juan-ignacio-navarrete-soli%C3%B1o-935308282/)
 
 
 
