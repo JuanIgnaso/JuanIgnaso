@@ -8,14 +8,6 @@ Me gusta programar:
   <li>Python</li>
 </ul>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://banner2.cleanpng.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://banner2.cleanpng.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg">
- <img alt="descripcion" src="https://banner2.cleanpng.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg
-">
-</picture>
-
-
 <!--
 **JuanIgnaso/JuanIgnaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
