@@ -11,7 +11,7 @@ Me gusta programar:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="![kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401 6404065315224546007438](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/caf81ce3-eb4e-44b0-9348-921ef35485ba)
+ <img alt="descripcion" src="![kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401 6404065315224546007438](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/caf81ce3-eb4e-44b0-9348-921ef35485ba)
 ">
 </picture>
 
