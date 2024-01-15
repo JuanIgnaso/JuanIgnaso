@@ -11,10 +11,14 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 <ul>
   <li>CSS/HTML</li>
   <li>Java Script</li>
-  <li>Python</li>
+  <li>PHP</li>
 </ul>
 
 </details>
+
+## Proyectos terminados recientemente o en progreso ✏️
+
+[Juego de Wordle en español](https://github.com/JuanIgnaso/Wordle-ES-Juego)🔠
 
 ## Otros Contactos
 Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/juan-ignacio-navarrete-soli%C3%B1o-935308282/)
