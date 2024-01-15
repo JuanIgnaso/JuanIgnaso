@@ -20,6 +20,12 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 [Juego de Wordle en español](https://github.com/JuanIgnaso/Wordle-ES-Juego)🔠
 
+## Ideas o próximamente 😀
+<ul>
+  <li>Todo list con backend</li>
+  <li>Weather app</li>
+</ul>
+
 ## Otros Contactos
 Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/juan-ignacio-navarrete-soli%C3%B1o-935308282/)
 
