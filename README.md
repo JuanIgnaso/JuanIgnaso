@@ -19,7 +19,9 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 [Juego de Wordle en español](https://github.com/JuanIgnaso/Wordle-ES-Juego)🔠
 
-[PHP MVC Framework](https://github.com/JuanIgnaso/php-mcv-core-template)💻
+[PHP MVC Framework](https://github.com/JuanIgnaso/php-mvc-framework)💻
+
+[Aplicación Notas](https://github.com/JuanIgnaso/Notes-App)🗒️
 
 
 ## Ideas o próximamente 😀
