@@ -6,7 +6,7 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 
 
-### Me gusta programar en:
+### Me gusta programar en: 👨‍💻
 
 <ul>
   <li>CSS/HTML</li>
@@ -39,9 +39,13 @@ Aplicación web de notas personal en progreso.
  ![imagen](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/97d5d2f7-0cf7-4cc5-b699-30482f4518c9) 
 
 
-## Otros Contactos
-Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/juan-ignacio-navarrete-soli%C3%B1o-935308282/)
+## Como contactarme 📫
 
+Puedes encontrarme en: 
+
+[Linkedin](https://www.linkedin.com/in/juan-ignacio-navarrete-soli%C3%B1o-935308282/)
+
+[Packagist](https://packagist.org/users/JuanNavarrete/packages/)
 
 
 <!--
