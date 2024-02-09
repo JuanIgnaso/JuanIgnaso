@@ -26,18 +26,20 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 ## Ideas o próximamente 😀
 <ul>
-  <li>Todo list con backend</li>
   <li>Weather app</li>
+  <li>JS Block Game con Scoreboard</li>
 </ul>
 
 ## Trabajando actualmente en 🔭:
 
-### Todo App
+### Intentando Contenerizar en Docker 
 
-Aplicación web de notas personal en progreso.
+#### Todo App
 
  ![imagen](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/97d5d2f7-0cf7-4cc5-b699-30482f4518c9) 
 
+
+#### Aplicación Wordle
 
 ## Como contactarme 📫
 
