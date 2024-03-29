@@ -23,23 +23,23 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 [Aplicación Notas](https://github.com/JuanIgnaso/Notes-App)🗒️
 
+[Aplicación del Tiempo](https://github.com/JuanIgnaso/Weather-App)🌦️
+
 
 ## Ideas o próximamente 😀
 <ul>
-  <li>Weather app</li>
-  <li>JS Block Game con Scoreboard</li>
+  <li>Manejador de Notas de Alumnos</li>
+  <li>Tienda Online</li>
 </ul>
 
 ## Trabajando actualmente en 🔭:
 
 ### Intentando Contenerizar en Docker 
 
-#### Todo App
+#### Weather App
 
- ![imagen](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/97d5d2f7-0cf7-4cc5-b699-30482f4518c9) 
+![Imagen de Weather App](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/8045138f-9579-4d8a-a62a-847473ea2093)
 
-
-#### Aplicación Wordle
 
 ## Como contactarme 📫
 
