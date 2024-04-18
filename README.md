@@ -34,7 +34,7 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 ## Trabajando actualmente en 🔭:
 
-#### Weather App
+### Weather App
 
 ![Imagen de Weather App](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/8045138f-9579-4d8a-a62a-847473ea2093)
 
