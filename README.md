@@ -47,6 +47,8 @@ Averiguando el como va el framework de PHP **Laravel** e intentando poner en pr√
 
 Puedes encontrarme en: 
 
+[Indeed](https://profile.indeed.com/?hl=es_ES&co=ES&from=gnav-homepage)
+
 [Linkedin](https://www.linkedin.com/in/juan-ignacio-navarrete-soli%C3%B1o-935308282/)
 
 [Packagist](https://packagist.org/users/JuanNavarrete/packages/)
