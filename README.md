@@ -29,16 +29,18 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 ## Ideas o próximamente 😀
 <ul>
   <li>Manejador de Notas de Alumnos</li>
-  <li>Tienda Online</li>
+  <li>Juego tres en raya</li>
 </ul>
 
 ## Trabajando actualmente en 🔭:
 
-### Intentando Contenerizar en Docker 
-
 #### Weather App
 
 ![Imagen de Weather App](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/8045138f-9579-4d8a-a62a-847473ea2093)
+
+### Aplicación de Tienda online con Laravel
+
+Averiguando el como va el framework de PHP **Laravel** e intentando poner en práctica lo aprendido.
 
 
 ## Como contactarme 📫
