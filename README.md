@@ -42,6 +42,11 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 Averiguando el como va el framework de PHP **Laravel** e intentando poner en práctica lo aprendido.
 
+Realizando la parte de manejo de productos.
+
+![backend de tienda](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/7bf7f2a6-3c92-4f80-96d4-998804b9eb46)
+
+
 
 ## Como contactarme 📫
 
