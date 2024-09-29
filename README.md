@@ -25,27 +25,18 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 [Aplicación del Tiempo](https://github.com/JuanIgnaso/Weather-App)🌦️
 
+[Aplicación Paint Usando JS Canvas](https://github.com/JuanIgnaso/Paint-app-test-with-JS-Canvas) 🖌️
+
 
 ## Ideas o próximamente 😀
 <ul>
-  <li>Manejador de Notas de Alumnos</li>
-  <li>Juego tres en raya</li>
+  <li>Sala de Chat</li>
+  <li>Aplicación de preguntas test</li>
 </ul>
 
 ## Trabajando actualmente en 🔭:
 
-### Weather App
-
-![Imagen de Weather App](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/8045138f-9579-4d8a-a62a-847473ea2093)
-
-### Aplicación de Tienda online con Laravel
-
-Averiguando el como va el framework de PHP **Laravel** e intentando poner en práctica lo aprendido.
-
-Realizando la parte de manejo de productos.
-
-![backend de tienda](https://github.com/JuanIgnaso/JuanIgnaso/assets/104755375/7bf7f2a6-3c92-4f80-96d4-998804b9eb46)
-
+### Paint usando API Canvas de JS
 
 
 ## Como contactarme 📫
@@ -55,8 +46,6 @@ Puedes encontrarme en:
 [Indeed](https://profile.indeed.com/?hl=es_ES&co=ES&from=gnav-homepage)
 
 [Linkedin](https://www.linkedin.com/in/juan-ignacio-navarrete-soli%C3%B1o-935308282/)
-
-[Packagist](https://packagist.org/users/JuanNavarrete/packages/)
 
 
 <!--
