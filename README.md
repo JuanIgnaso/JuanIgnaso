@@ -21,11 +21,11 @@ Esta es la cuenta de una persona que justo acaba de empezar en el mundillo de la
 
 [PHP MVC Framework](https://github.com/JuanIgnaso/php-mvc-framework)💻
 
-[Aplicación Notas](https://github.com/JuanIgnaso/Notes-App)🗒️
+[Aplicación Web de Notas](https://github.com/JuanIgnaso/Notes-App)🗒️
 
-[Aplicación del Tiempo](https://github.com/JuanIgnaso/Weather-App)🌦️
+[Aplicación Web del Tiempo](https://github.com/JuanIgnaso/Weather-App)🌦️
 
-[Aplicación Paint Usando JS Canvas](https://github.com/JuanIgnaso/Paint-app-test-with-JS-Canvas) 🖌️
+[Aplicación Web Paint Usando JS Canvas](https://github.com/JuanIgnaso/Paint-app-test-with-JS-Canvas) 🖌️
 
 
 ## Ideas o próximamente 😀
